@@ -6,6 +6,8 @@ Junior software engineer focused on:
 - Low-level & security-oriented programming
 - Java
 - Typescript
+- AI Engineer | Generative AI | LLMs | RAG | AI Agents | Python | Machine Learning
+
 
 📂 Projects are organized by language:
 - 🦀 Rust → github.com/angelo-rust
